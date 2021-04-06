@@ -67,7 +67,7 @@ bot.on("message", (msg) => {
               },
               {
                 text: "Jizzah",
-                url: "https://namozvaqti.uz/shahar/jizzax",
+                url: "https://namozvaqti.uz/ramazon/jizzax",
               },
             ],
             [
@@ -77,37 +77,37 @@ bot.on("message", (msg) => {
               },
               {
                 text: "Nukus",
-                url: "https://namozvaqti.uz/shahar/nukus",
+                url: "https://namozvaqti.uz/ramazon/nukus",
               },
             ],
             [
               {
                 text: "Samarqand",
-                url: "https://namozvaqti.uz/shahar/samarqand",
+                url: "https://namozvaqti.uz/ramazon/samarqand",
               },
               {
                 text: "Surxondaryo",
-                url: "https://namozvaqti.uz/shahar/termiz",
+                url: "https://namozvaqti.uz/ramazon/termiz",
               },
             ],
             [
               {
                 text: "Qashqadaryo",
-                url: "https://namozvaqti.uz/shahar/qarshi",
+                url: "https://namozvaqti.uz/ramazon/qarshi",
               },
               {
                 text: "Andijon",
-                url: "https://namozvaqti.uz/shahar/andijon",
+                url: "https://namozvaqti.uz/ramazon/andijon",
               },
             ],
             [
               {
                 text: "Namangan",
-                url: "https://namozvaqti.uz/shahar/pop1",
+                url: "https://namozvaqti.uz/ramazon/pop1",
               },
               {
                 text: "Xorazm",
-                url: "https://namozvaqti.uz/shahar/urganch",
+                url: "https://namozvaqti.uz/ramazon/urganch",
               },
             ],
           ],
